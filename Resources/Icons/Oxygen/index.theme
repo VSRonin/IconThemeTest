@@ -1,0 +1,14 @@
+[Icon Theme]
+Name=Oxygen
+Comment=Oxygen Team
+Inherits=hicolor
+Directories=16x16,48x48,32x32
+ 
+[16x16]
+Size=16
+ 
+[48x48]
+Size=48
+ 
+[32x32]
+Size=32

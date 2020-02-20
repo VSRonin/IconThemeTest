@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons/Oxygen">
+        <file alias="16x16/document-close.png">Resources/Icons/Oxygen/16x16/document-close.png</file>
+        <file alias="16x16/document-new.png">Resources/Icons/Oxygen/16x16/document-new.png</file>
+        <file alias="16x16/document-open.png">Resources/Icons/Oxygen/16x16/document-open.png</file>
+        <file alias="32x32/document-close.png">Resources/Icons/Oxygen/32x32/document-close.png</file>
+        <file alias="32x32/document-new.png">Resources/Icons/Oxygen/32x32/document-new.png</file>
+        <file alias="32x32/document-open.png">Resources/Icons/Oxygen/32x32/document-open.png</file>
+        <file alias="48x48/document-close.png">Resources/Icons/Oxygen/48x48/document-close.png</file>
+        <file alias="48x48/document-new.png">Resources/Icons/Oxygen/48x48/document-new.png</file>
+        <file alias="48x48/document-open.png">Resources/Icons/Oxygen/48x48/document-open.png</file>
+        <file alias="index.theme">Resources/Icons/Oxygen/index.theme</file>
+    </qresource>
+</RCC>
